@@ -1,3 +1,5 @@
 # Pig and Coins
 一个小游戏
-![image](http://github.com/EEEmma/Pig-and-Coins/src/resources/display.png)
+效果预览
+
+![image](https://github.com/EEEmma/Pig-and-Coins/blob/master/src/resources/display.png)
