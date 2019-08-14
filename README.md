@@ -9,6 +9,6 @@
 
 还可以加钻石啊啥的，比方说吃到一个钻石可以得10分！还没来得及做嗷~
 
-效果预览
+###效果预览
 
 ![image](https://github.com/EEEmma/Pig-and-Coins/blob/master/src/resources/display.png)
